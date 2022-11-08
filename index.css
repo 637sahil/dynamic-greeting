@@ -1,0 +1,26 @@
+body{
+  background-color: aquamarine;
+  font-family:Arial, Helvetica, sans-serif;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  
+}
+div{
+align-items: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: -30px;
+}
+h1{
+  color:bisque;
+  background-color: darksalmon;
+  border-radius: 20px;
+  padding:20px 20px ;
+
+}
+span{
+  color:#eb6383;
+}
